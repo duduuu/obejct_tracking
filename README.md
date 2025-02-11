@@ -1,5 +1,8 @@
-# object_tracking.pytorch
-object tracking for MAICON final
+# Object Tracking - MAICON 2022
+
+야간 사건사고 대응을 위한 적외선 및 열화상 데이터 객체 추적
+
+- 사이버전사22 팀: 김영준(acorn421), 백두현(dudu), 신성욱(신성욱신성욱), 이지성(Irony)
 
 # Requirements
 
