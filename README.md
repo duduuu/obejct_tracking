@@ -1,4 +1,4 @@
-# Object Tracking - MAICON 2022
+# Infrared-ObjectTracking - MAICON 2022
 
 야간 사건사고 대응을 위한 적외선 및 열화상 데이터 객체 추적
 
